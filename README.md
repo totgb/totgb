@@ -1,14 +1,78 @@
-## Hey guys! I'm TOTGB
-<!-- digitaldynastyjohn/digitaldynastyjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👑 TOTGB — The One That Gets By
 
-Here are some ideas to get you started:
+> Building systems. Breaking limits. Ascending through code.
 
-- 🔭 I’m currently working on ... -->
-🌱 I’m currently learning ... C/C++ and all that relates to it
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ About Me
+
+I’m a software-focused builder on a mission to master computing from the ground up — from CPU architecture to full-scale applications.
+
+* 🧠 Deep diving into **systems, networking, and architecture**
+* ⚙️ Building **offline-first software for real-world constraints**
+* 📡 Exploring **UDP-based communication systems**
+* 🧩 Designing modular, reusable software components
+* 🚀 Goal: **Financial freedom through technical mastery**
+
+---
+
+## 🧱 Current Projects
+
+### 🔹 ZazzProxy
+
+Offline-first proxy system that serves cached versions of websites
+
+> Designed for regions with limited internet access
+---
+
+## 🧠 What I’m Learning
+
+* CPU Architectures (x86, ARM, RISC-V)
+* Operating System Design
+* Networking (UDP, low-level protocols)
+* Android Native Development (C/C++)
+* Cross-platform systems (Qt, ImGui)
+
+---
+
+## ⚔️ Tech Stack
+
+```cpp
+Languages:   C, C++, Java, JavaScript
+Frameworks:  Qt, ImGui, Next.js
+Tools:       Git, Linux, Termux, Android NDK
+Focus:       Performance, Control, Low-Level Systems
+```
+
+---
+
+## 🌍 Philosophy
+
+> “Knowledge is power. Control is everything.”
+
+I don’t just use technology — I aim to understand it at its core and rebuild it when necessary.
+
+---
+
+## 📈 Goals
+
+* Build high-performance offline systems
+* Master low-level programming
+* Create software that solves real infrastructure problems
+* Teach others once mastery is achieved
+
+---
+
+## 🤝 Connect / Collaborate
+
+Currently building in silence…
+But open to collaborating on **systems-level or network-based projects**.
+
+---
+
+## ⚡ Fun Fact
+
+I’m not here to follow trends.
+I’m here to understand the machine — and bend it.
+
+---
